@@ -28,14 +28,14 @@ body {
   
   /* Fake image */
   .fakeimg {
-    background-color: #aaa;
+    background-color: rgb(121, 13, 13);
     width: 100%;
     padding: 20px;
   }
   
   /* Add a card effect for articles */
   .card {
-    background-color: white;
+    background-color: rgb(88, 50, 177);
     padding: 20px;
     margin-top: 20px;
   }
@@ -51,7 +51,7 @@ body {
   .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    background: rgb(206, 114, 114);
     margin-top: 20px;
   }
   
