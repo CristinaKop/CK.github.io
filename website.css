@@ -329,7 +329,7 @@ html {
     box-shadow: none;
   }
   
-  .w3-badge{
+  .w3-badge,.w3-tag {
     background-color: #000;
     color: #fff;
     display: inline-block;
